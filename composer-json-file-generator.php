@@ -13,24 +13,24 @@ return [
 
     'packages' => [
         'v9x' => [
-            'music-performing-arts-special-talent',
-            'fine-arts-special-talent',
-            'education-special-talent',
             'communication-center',
+            'education-special-talent',
+            'fine-arts-special-talent',
             'legislation-system',
+            'music-performing-arts-special-talent',
         ],
         'v10x' => [
             'spid',
         ],
         'v11x' => [
-            'composer-json-file-generator',
-            'short-cuts',
-            'ahwet-sen',
-            'package-generator',
-            'asset-files',
             'admin-panel',
-            'food-list',
+            'ahwet-sen',
+            'asset-files',
             'career-fair',
+            'composer-json-file-generator',
+            'food-list',
+            'package-generator',
+            'short-cuts',
         ],
     ],
 
