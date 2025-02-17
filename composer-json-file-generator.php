@@ -23,14 +23,16 @@ return [
             'spid',
         ],
         'v11x' => [
-            'admin-panel',
             'ahwet-sen',
+            'short-cuts',
+        ],
+        'v12x' => [
+            'admin-panel',
             'asset-files',
             'career-fair',
             'composer-json-file-generator',
             'food-list',
             'package-generator',
-            'short-cuts',
         ],
     ],
 
