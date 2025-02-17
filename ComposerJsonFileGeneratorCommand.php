@@ -12,7 +12,7 @@ class ComposerJsonFileGeneratorCommand extends Command
      *
      * @var string
      */
-    protected $signature = 'composer-json-file-generator {laravelVersion=v11x} {packageName=package-generator}';
+    protected $signature = 'composer-json-file-generator {laravelVersion=v12x} {packageName=package-generator}';
 
     /**
      * The console command description.
