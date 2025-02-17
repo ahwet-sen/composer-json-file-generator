@@ -10,6 +10,8 @@
 ├─ v10x-composer.json
 ├─ v11x-AppServiceProvider.php
 ├─ v11x-composer.json
+├─ v12x-AppServiceProvider.php
+├─ v12x-composer.json
 ├─ v9x-AppServiceProvider.php
 ├─ v9x-composer.json
 └─ web.php
