@@ -28,11 +28,13 @@ return [
         ],
         'v12x' => [
             'admin-panel',
+            'ahwet-sen',
             'asset-files',
             'career-fair',
             'composer-json-file-generator',
             'food-list',
             'package-generator',
+            'short-cuts',
         ],
     ],
 

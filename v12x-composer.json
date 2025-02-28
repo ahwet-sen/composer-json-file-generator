@@ -3,7 +3,7 @@
     "name": "laravel/laravel",
     "type": "project",
     "description": "The skeleton application for the Laravel framework.",
-    "version": "v12.0.0",
+    "version": "v12.0.1",
     "keywords": ["laravel", "framework"],
     "license": "MIT",
     "require": {
@@ -60,9 +60,6 @@
         ]
     },
     "extra": {
-        "branch-alias": {
-            "dev-master": "12.x-dev"
-        },
         "laravel": {
             "dont-discover": []
         }
@@ -76,7 +73,7 @@
             "php-http/discovery": true
         }
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "prefer-stable": true,
     "repositories": [
         {
