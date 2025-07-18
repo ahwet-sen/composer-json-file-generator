@@ -35,6 +35,7 @@ return [
             'food-list',
             'package-generator',
             'short-cuts',
+            'rent-tracking',
         ],
     ],
 
