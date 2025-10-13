@@ -37,6 +37,7 @@ return [
             'short-cuts',
             'rent-track',
             'sun-shine',
+            'infinity-dashboard',
         ],
     ],
 
