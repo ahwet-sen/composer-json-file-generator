@@ -36,7 +36,6 @@ return [
             'package-generator',
             'short-cuts',
             'rent-track',
-            'sun-shine',
             'infinity-dashboard',
         ],
     ],
