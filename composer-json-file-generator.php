@@ -36,6 +36,7 @@ return [
             'package-generator',
             'short-cuts',
             'rent-track',
+            'wms-admin',
         ],
     ],
 
