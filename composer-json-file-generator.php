@@ -36,7 +36,7 @@ return [
             'package-generator',
             'short-cuts',
             'rent-track',
-            'dashboard-starter-kit',
+            'quick-admin-panel',
         ],
     ],
 
