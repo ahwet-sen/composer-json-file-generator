@@ -36,7 +36,7 @@ return [
             'package-generator',
             'short-cuts',
             'rent-track',
-            'content-management-system',
+            'quick-dashboard-starter-kit',
         ],
     ],
 
