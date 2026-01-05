@@ -36,7 +36,7 @@ return [
             'package-generator',
             'short-cuts',
             'rent-track',
-            'web-management-system',
+            'content-management-system',
         ],
     ],
 
