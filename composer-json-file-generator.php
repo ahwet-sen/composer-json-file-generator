@@ -37,6 +37,7 @@ return [
             'short-cuts',
             'rent-track',
             'quick-starter-kit',
+            'voting-system',
         ],
     ],
 
